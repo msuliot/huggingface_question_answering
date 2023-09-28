@@ -1,6 +1,9 @@
 # Hugging Face - Question Answering
 This is a simple example of how to use the Hugging Face Hub for question answering on provided content.
 
+## YouTube Video Tutorial for this GitHub Repository
+[Hugging Face - Question & Answering](https://youtu.be/gHEbNhX0sSQ)
+
 ## The basics
 
 1. Must have Python3.
